@@ -1,0 +1,1 @@
+This folder contains the code for the COMP2261 Artificial Intelligence – Machine Learning coursework. The project works with the BraVL dataset and focuses on basic machine learning workflow, including data exploration, model implementation, evaluation, and result analysis.
