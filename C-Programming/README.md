@@ -1,0 +1,1 @@
+This folder contains the code for the COMP2221 Programming Paradigms – Systems Programming coursework. The project implements a robust dynamic memory allocator in C, including memory allocation, deallocation, safe read/write operations, corruption detection, and basic testing through a runme executable.
