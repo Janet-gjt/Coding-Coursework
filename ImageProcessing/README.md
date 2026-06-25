@@ -1,0 +1,1 @@
+This folder contains the code for the Data Science – Image Processing coursework. The project applies conventional image processing techniques to corrupted chest X-ray images, including denoising, dewarping, contrast and brightness adjustment, colour channel correction, and inpainting of missing regions.
