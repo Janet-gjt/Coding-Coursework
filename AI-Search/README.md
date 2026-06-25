@@ -1,0 +1,1 @@
+This folder contains the code for the Artificial Intelligence – AI Search coursework. The project implements Python search algorithms for the Travelling Salesperson Problem, including basic and enhanced versions of two selected algorithms, together with generated tour files and validation outputs.
